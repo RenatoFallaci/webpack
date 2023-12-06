@@ -1,0 +1,7 @@
+.main-title {
+    background-color: #ec0000;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 10);
+    text-align: center;
+    padding: 20px;
+}
